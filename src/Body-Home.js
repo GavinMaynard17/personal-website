@@ -4,8 +4,7 @@ function body() {
 
         <p>Welcome to my website! There is not much here now, but I am working on that.</p>
 
-        <p>In the meantime, check out my
-            <a href="https://www.github.com/GavinMaynard17" target="_blank" rel="noopener noreferrer"> GitHub</a>
+        <p>In the meantime, check out my <a href="https://www.github.com/GavinMaynard17" target="_blank" rel="noopener noreferrer">GitHub</a>
         </p>
     </div>
 }
